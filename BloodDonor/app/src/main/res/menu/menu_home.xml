@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.beingamit.blooddonor.HomeActivity">
+    <item android:id="@+id/action_help" android:title="Help"
+        android:orderInCategory="100" app:showAsAction="never"/>
+    <item android:id="@+id/action_share" android:title="Share app"
+        android:orderInCategory="100" app:showAsAction="never"/>
+    <item android:id="@+id/action_about" android:title="About us"
+        android:orderInCategory="100" app:showAsAction="never"/>
+
+</menu>
